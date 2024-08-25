@@ -53,6 +53,11 @@ namespace TelemetryPortal_MVC.Models
                 await _context.SaveChangesAsync();
             }
         }
+
+        public Task<bool> ProjectExistsAsync(Guid projectId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
