@@ -1,6 +1,12 @@
 # CMPG-323-Project-3-34933832
 ## Description
 This web application is part of the CMPG 323 course. It provides a platform for managing project and client data with CRUD (Create, Read, Update, Delete) functionalities. Built with .NET 8 and hosted on Azure, it follows best practices in software design and architecture.
+
+1. Open the application in your web browser (e.g., `http://localhost:5000`).
+2. Navigate through the different sections using the menu.
+3. Use the forms provided to add, edit, or delete projects and clients.
+4. Access the API documentation (if available) to understand how to interact with the API endpoints.
+
 ## Features
 - **CRUD Operations:** Manage projects and clients efficiently.
 - **Secure Hosting:** Deployed on Azure with secure API endpoints.
